@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **IOT**
 
-- 🌱 I’m currently learning **Machine Learning,IOT**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **yadavchhama09@gmail.com**
 
